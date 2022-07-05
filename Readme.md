@@ -45,5 +45,6 @@ Basic design of the input with all states
 
 
 Design of the submit button including all states
+
 ![buttons](https://github.com/SvetlanaM/kompilator-assigment/blob/master/buttons.png)
 

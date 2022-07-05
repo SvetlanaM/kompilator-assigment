@@ -39,6 +39,11 @@ After form submission show alert with submitted data in JSON
 
 Basic design of the input with all states
 
+![inputs](https://github.com/SvetlanaM/kompilator-assigment/blob/master/input.png)
+
+![fields](https://github.com/SvetlanaM/kompilator-assigment/blob/master/fields.png)
+
 
 Design of the submit button including all states
+![buttons](https://github.com/SvetlanaM/kompilator-assigment/blob/master/buttons.png)
 
